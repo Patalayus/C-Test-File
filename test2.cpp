@@ -6,7 +6,7 @@ using namespace std;
 int main(){
         int num1;
         cout << "please enter a number\n";
-        cin << num1;
+        cin >> num1;
 
         if(num1 > 10){
                 cout << "your number is bigger than 10";
